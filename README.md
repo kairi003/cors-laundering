@@ -1,4 +1,4 @@
-# corslaunder
+# cors-laundering
 CORS Laundering Server with Flask
 
-[https://corslaunder.herokuapp.com/](https://corslaunder.herokuapp.com/)
+[https://cors-laundering.herokuapp.com/](https://cors-laundering.herokuapp.com/)
